@@ -1,2 +1,3 @@
-# Prueba_Repositorio
-Prueba para probar GitHub
+# Python Graficas
+
+Este repositorio es solamente para Graficas en el Lenguaje de Programacion Python
